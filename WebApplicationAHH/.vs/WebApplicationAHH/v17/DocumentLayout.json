@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B93C7CF7-A335-4C90-AEAB-175297BA4F03}|WebApplicationAHH\\WebApplicationAHH.csproj|c:\\users\\moyla\\documents\\github\\ahhh\\webapplicationahh\\webapplicationahh\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B93C7CF7-A335-4C90-AEAB-175297BA4F03}|WebApplicationAHH\\WebApplicationAHH.csproj|solutionrelative:webapplicationahh\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93C7CF7-A335-4C90-AEAB-175297BA4F03}|WebApplicationAHH\\WebApplicationAHH.csproj|c:\\users\\moyla\\documents\\github\\ahhh\\webapplicationahh\\webapplicationahh\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B93C7CF7-A335-4C90-AEAB-175297BA4F03}|WebApplicationAHH\\WebApplicationAHH.csproj|solutionrelative:webapplicationahh\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93C7CF7-A335-4C90-AEAB-175297BA4F03}|WebApplicationAHH\\WebApplicationAHH.csproj|c:\\users\\moyla\\documents\\github\\ahhh\\webapplicationahh\\webapplicationahh\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93C7CF7-A335-4C90-AEAB-175297BA4F03}|WebApplicationAHH\\WebApplicationAHH.csproj|solutionrelative:webapplicationahh\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93C7CF7-A335-4C90-AEAB-175297BA4F03}|WebApplicationAHH\\WebApplicationAHH.csproj|c:\\users\\moyla\\documents\\github\\ahhh\\webapplicationahh\\webapplicationahh\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93C7CF7-A335-4C90-AEAB-175297BA4F03}|WebApplicationAHH\\WebApplicationAHH.csproj|solutionrelative:webapplicationahh\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B93C7CF7-A335-4C90-AEAB-175297BA4F03}|WebApplicationAHH\\WebApplicationAHH.csproj|c:\\users\\moyla\\documents\\github\\ahhh\\webapplicationahh\\webapplicationahh\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B93C7CF7-A335-4C90-AEAB-175297BA4F03}|WebApplicationAHH\\WebApplicationAHH.csproj|solutionrelative:webapplicationahh\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,32 +63,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAHH\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "WebApplicationAHH\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T18:25:59.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAHH\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationAHH\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T18:25:13.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAHH\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplicationAHH\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:23:55.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplicationAHH\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplicationAHH\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:23:10.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebApplicationAHH\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "WebApplicationAHH\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T18:20:02.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationAHH\\Program.cs",
               "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Program.cs",
               "RelativeToolTip": "WebApplicationAHH\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAgwDEAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAA2wDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T18:06:59.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAHH\\Views\\_ViewImports.cshtml",

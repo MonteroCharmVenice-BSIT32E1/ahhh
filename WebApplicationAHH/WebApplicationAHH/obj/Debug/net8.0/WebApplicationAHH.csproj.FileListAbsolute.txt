@@ -1,0 +1,8 @@
+C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.AssemblyInfoInputs.cache
+C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.AssemblyInfo.cs
+C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.csproj.CoreCompileInputs.cache
+C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.RazorAssemblyInfo.cache
+C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.RazorAssemblyInfo.cs
+C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.sourcelink.json
