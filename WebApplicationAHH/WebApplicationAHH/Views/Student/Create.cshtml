@@ -12,7 +12,6 @@
         <input asp-for="Name" class="form-control" />
         <span asp-validation-for="Name" class="text-danger"></span>
     </div>
-    <!-- Repeat for all other fields (Grade7Math, Grade7Science, etc.) -->
     <div class="form-group">
         <label asp-for="Grade7Math" class="control-label"></label>
         <input asp-for="Grade7Math" class="form-control" />
@@ -20,4 +19,17 @@
     </div>
     <!-- Add similar inputs for other grades -->
     <div class="form-group">
-        <input type="submit
+        <label asp-for="Grade7Science" class="control-label"></label>
+        <input asp-for="Grade7Science" class="form-control" />
+        <span asp-validation-for="Grade7Science" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Grade7English" class="control-label"></label>
+        <input asp-for="Grade7English" class="form-control" />
+        <span asp-validation-for="Grade7English" class="text-danger"></span>
+    </div>
+    <!-- Repeat for all other fields -->
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>

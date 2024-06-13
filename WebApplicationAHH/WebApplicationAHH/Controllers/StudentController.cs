@@ -1,6 +1,4 @@
-﻿// Controllers/StudentController.cs
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using WebApplicationAHH.Data;
 using WebApplicationAHH.Models;
@@ -12,9 +10,9 @@ namespace WebApplicationAHH.Controllers
     [Authorize(Roles = "Teacher")]
     public class StudentController : Controller
     {
-        private readonly WebApplicationAHH _context;
+        private readonly ApplicationDbContext _context;
 
-        public StudentController(WebApplicationAHH context)
+        public StudentController(ApplicationDbContext context)
         {
             _context = context;
         }
@@ -43,4 +41,3 @@ namespace WebApplicationAHH.Controllers
         }
     }
 }
-

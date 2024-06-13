@@ -6,3 +6,4 @@ C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Deb
 C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.RazorAssemblyInfo.cache
 C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.RazorAssemblyInfo.cs
 C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.sourcelink.json
+C:\Users\Moyla\Documents\GitHub\ahhh\WebApplicationAHH\WebApplicationAHH\obj\Debug\net8.0\WebApplicationAHH.csproj.AssemblyReference.cache

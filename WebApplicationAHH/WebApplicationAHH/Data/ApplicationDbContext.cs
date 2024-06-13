@@ -1,10 +1,8 @@
-﻿// Data/ApplicationDbContext.cs
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using StudentStrandAssessment.Models;
-using System.Collections.Generic;
+using WebApplicationAHH.Models;
 
-namespace StudentStrandAssessment.Data
+namespace WebApplicationAHH.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

@@ -1,12 +1,11 @@
-﻿// Controllers/DashboardController.cs
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using WebApplicationAHH.Data;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SWebApplicationAHH.Controllers
+namespace WebApplicationAHH.Controllers
 {
     [Authorize]
     public class DashboardController : Controller

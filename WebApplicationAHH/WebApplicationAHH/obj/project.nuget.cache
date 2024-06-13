@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mmZs1NIQmhazK1qaoiX3qtBm4dLIMOPiYABSDTWL6Vw3TSuc0KZZZvlGXOriGohh6hMa8YbyMBO3QoDFEzZtDA==",
+  "dgSpecHash": "gnaOqBkbF10fqGdNFXMAVrv2qf2YdzYEuGCPx1K9JRZrYduMgxPvFnOJNHDijnzOMd9wU6urP4dMK6n3WJMYOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Moyla\\Documents\\GitHub\\ahhh\\WebApplicationAHH\\WebApplicationAHH\\WebApplicationAHH.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Moyla\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\Moyla\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
     "C:\\Users\\Moyla\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
+    "C:\\Users\\Moyla\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.6\\microsoft.entityframeworkcore.inmemory.8.0.6.nupkg.sha512",
     "C:\\Users\\Moyla\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Moyla\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\Moyla\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
