@@ -1,7 +1,10 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿// Data/ApplicationDbContext.cs
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using StudentStrandAssessment.Models;
+using System.Collections.Generic;
 
-namespace WebApplicationAHH.Data
+namespace StudentStrandAssessment.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
@@ -10,7 +13,6 @@ namespace WebApplicationAHH.Data
         {
         }
 
-        // DbSets for your entities
-        // public DbSet<Student> Students { get; set; }
+        public DbSet<Student> Students { get; set; }
     }
 }
