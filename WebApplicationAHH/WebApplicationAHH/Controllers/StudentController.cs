@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using WebApplicationAHH.Data;
-using StWebApplicationAHH.Models;
+using WebApplicationAHH.Models;
 using System.Linq;
 using System.Threading.Tasks;
 

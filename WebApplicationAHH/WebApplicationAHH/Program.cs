@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using StudentStrandAssessment.Data;
-using StudentStrandAssessment.Models;
+using WebApplicationAHH.Data;
+using WebApplicationAHH.Models;
 using WebApplicationAHH.Data;
 
 public class Startup

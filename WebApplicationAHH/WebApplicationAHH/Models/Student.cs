@@ -1,7 +1,7 @@
 ﻿// Models/Student.cs
 using System.ComponentModel.DataAnnotations;
 
-namespace StudentStrandAssessment.Models
+namespace WebApplicationAHH.Models
 {
     public class Student
     {

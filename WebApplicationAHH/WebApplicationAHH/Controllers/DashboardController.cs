@@ -2,11 +2,11 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using StudentStrandAssessment.Data;
+using WebApplicationAHH.Data;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace StudentStrandAssessment.Controllers
+namespace SWebApplicationAHH.Controllers
 {
     [Authorize]
     public class DashboardController : Controller
